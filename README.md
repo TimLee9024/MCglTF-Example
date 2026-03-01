@@ -1,3 +1,5 @@
+> The primary glTF mod devlopment has been move to CleanroomMC, please see the new [CRglTF](https://github.com/CleanroomMC/CRglTF) repo.
+
 # MCglTF-Example
  Example usages for MCglTF
  
